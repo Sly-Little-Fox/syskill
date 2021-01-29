@@ -1,2 +1,2 @@
-### Browser Killer
-Hey! I am Browser Killer, test programm on js!
+### Syskill
+Hello. Syskill is a project, which can basically **kill** your computer.
